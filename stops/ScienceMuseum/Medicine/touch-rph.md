@@ -8,10 +8,9 @@ page_rank: #2
 stop_id: #2
 audio_file: /medicine/A_2 Phernological heads.mp3
 hero_images:
- - path: 02-second-stop-01.jpg
+ - path: Medicine_touch_A136877_(0002).jpeg
    alt_text: First example photo for stop 2
- - path: 02-second-stop-02.jpg
-   alt_text: Second example photo for stop 2
+
 ---
 
 ## Touch object: replica phrenology head
