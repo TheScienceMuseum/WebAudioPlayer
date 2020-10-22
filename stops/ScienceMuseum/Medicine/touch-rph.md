@@ -8,9 +8,10 @@ page_rank: #2
 stop_id: #2
 audio_file: /medicine/A_2 Phernological heads.mp3
 hero_images:
- - path: Medicine_touch_A136877_(0002).jpeg
-   alt_text: First example photo for stop 2
-
+  - path: Medicine_touch_rph.jpg
+    alt_text: Phrenological bust, by J. De Ville, London, 1821. © The Board of Trustees of the Science Museum Science Museum Group Collection
+  - path: Medicine_touch_rph2.jpg
+    alt_text: Phrenological bust, by J. De Ville, London, 1821. © The Board of Trustees of the Science Museum Science Museum Group Collection
 ---
 
 ## Touch object: replica phrenology head
