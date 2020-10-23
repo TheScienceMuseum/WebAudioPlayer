@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /stops/sm_medicine_touch-pmt/
+permalink: /WebAudioPlayer/stops/sm_medicine_touch-pmt/
 type: stop
 section_title: Medicine
 title: Touch object replica phrenology head
