@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /WebAudioPlayer/ScienceMuseum/Medicine/touch-rph/
+permalink: /3/
 type: stop
 section_title: Medicine
 title: Touch object replica phrenology head
