@@ -1,11 +1,11 @@
 ---
 layout: episode
 permalink: /ScienceMuseum/Medicine/touch-pmt/
-type: #stop
+type: stop
 section_title: Medicine
 title: Touch object post-mortem tools
-page_rank:
-stop_id: 
+page_rank: 3
+stop_id: 3
 audio_file: /medicine/A_1 Post Mortem tools.mp3
 hero_images:
  - path: Medicine_touch_pmt.jpg
