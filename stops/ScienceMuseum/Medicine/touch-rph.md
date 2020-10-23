@@ -1,11 +1,11 @@
 ---
 layout: episode
-permalink: /ScienceMuseum/Medicine/touch-rph/
+permalink: ../ScienceMuseum/Medicine/touch-rph/
 type: #stop
 section_title: Medicine
 title: Touch object replica phrenology head
 page_rank:
-stop_id: 
+stop_id:
 audio_file: /medicine/A_2 Phernological heads.mp3
 hero_images:
   - path: Medicine_touch_rph.jpg

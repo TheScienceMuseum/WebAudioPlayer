@@ -1,11 +1,11 @@
 ---
 layout: episode
-permalink: /ScienceMuseum/Medicine/Therapist-t/
+permalink: ../ScienceMuseum/Medicine/Therapist-t/
 type: #stop
 section_title: Medicine and treatments
 title: Therapists Room - The Therapist chair
 page_rank:
-stop_id: 
+stop_id:
 audio_file: /medicine/INSIDE THE THERAPISTS ROOM - THERAPISTS Compressed.mp3
 hero_images:
  - path: Medicine-Therapist.jpg
