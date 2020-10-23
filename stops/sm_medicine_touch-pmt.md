@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /WebAudioPlayer/stops/sm_medicine_touch-pmt/
+permalink: /WebAudioPlayer/sm_medicine_touch-pmt/
 type: stop
 section_title: Medicine
 title: Touch object post-mortem tools
