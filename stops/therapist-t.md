@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /ScienceMuseum/Medicine/Therapist-t/
-type: #stop
+type: stop
 section_title: Medicine and treatments
 title: Therapists Room - The Therapist chair
 page_rank: #2
