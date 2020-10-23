@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /ScienceMuseum/Medicine/Therapist-t/
+permalink: /WebAudioPlayer/ScienceMuseum/Medicine/Therapist-t/
 type: stop
 section_title: Medicine and treatments
 title: Therapists Room - The Therapist chair
