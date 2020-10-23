@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /4/
+permalink: /WebAudioPlayer/ScienceMuseum/Medicine/Therapist-p/
 type: stop
 section_title: Medicine and treatments
 title: Therapists Room - The Patient's chair
