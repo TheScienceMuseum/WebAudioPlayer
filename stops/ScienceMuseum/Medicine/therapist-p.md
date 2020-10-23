@@ -4,14 +4,15 @@ permalink: /WebAudioPlayer/ScienceMuseum/Medicine/Therapist-p/
 type: stop
 section_title: Medicine and treatments
 title: Therapists Room - The Patient's chair
-page_rank: 1
-stop_id: 1
+page_rank:
+stop_id:
 audio_file: /medicine/INSIDE THE THERAPISTS ROOM - CLIENTS Compressed.mp3
 hero_images:
 - path: Medicine-Therapist.jpg
   alt_text: Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
 - path: Medicine-Therapist2.jpg
   alt_text: Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
+
 ---
 
 ## Patient’s Chair 1: Lee Brookes
