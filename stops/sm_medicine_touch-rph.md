@@ -1,11 +1,11 @@
 ---
 layout: episode
 permalink: /stops/7/
-type: #stop
+type:
 section_title: Medicine
 title: Touch object replica phrenology head
-page_rank: #
-stop_id: #
+page_rank:
+stop_id: 
 audio_file: /medicine/A_2 Phernological heads.mp3
 hero_images:
   - path: Medicine_touch_rph.jpg

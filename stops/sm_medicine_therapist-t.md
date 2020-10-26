@@ -1,11 +1,11 @@
 ---
 layout: episode
 permalink: /stops/5/
-type: #stop
+type:
 section_title: Medicine and treatments
 title: Therapists Room - The Therapist chair
-page_rank: #
-stop_id: #
+page_rank:
+stop_id: 
 audio_file: /medicine/INSIDE THE THERAPISTS ROOM - THERAPISTS Compressed.mp3
 hero_images:
  - path: Medicine-Therapist.jpg
