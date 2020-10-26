@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /stops/first/
-type: stop
+type: #stop
 section_title: THE SCIENCE MUSEUM Audio Guide
 title: Nintendo Entertainment System (NES)
 page_rank:
