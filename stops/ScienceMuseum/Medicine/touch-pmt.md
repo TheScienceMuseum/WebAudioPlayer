@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /medicine/touch-pmt/
+permalink: /sciencemuseum/medicine/touch-pmt/
 type: #stop
 section_title: Medicine
 title: Touch object post-mortem tools
