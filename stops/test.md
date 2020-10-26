@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /stops/2/
-type: #stop
+type: stop
 section_title: Medicine and treatments
 title: Therapists Room - The Patient's chair
 page_rank: #2
