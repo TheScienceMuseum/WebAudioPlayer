@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /sm_medicine_touch-rph/
+permalink: /stops/7/
 type: #stop
 section_title: Medicine
 title: Touch object replica phrenology head

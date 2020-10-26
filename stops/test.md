@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /test/
+permalink: /stops/2/
 type: #stop
 section_title: Medicine and treatments
 title: Therapists Room - The Patient's chair

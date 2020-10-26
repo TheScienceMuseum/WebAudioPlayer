@@ -1,6 +1,6 @@
 ---
 layout: episode
-permalink: /sm_medicine_touch-pmt/
+permalink: /stops/6/
 type: #stop
 section_title: Medicine
 title: Touch object post-mortem tools
