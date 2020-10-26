@@ -1,11 +1,11 @@
 ---
 layout: episode
-permalink: /WebAudioPlayer/sm_medicine_touch-pmt/
-type: stop
+permalink: /sm_medicine_touch-pmt/
+type: #stop
 section_title: Medicine
 title: Touch object post-mortem tools
-page_rank:
-stop_id:
+page_rank: #
+stop_id: #
 audio_file: /medicine/A_1 Post Mortem tools.mp3
 hero_images:
  - path: Medicine_touch_pmt.jpg
