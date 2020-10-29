@@ -1,8 +1,8 @@
 ---
 layout: episode
-permalink: /sciencemuseum/infoage/brodcastG/
+permalink: /sciencemuseum/infoage/broadcastG/
 type: stop
-section_title: Information Age - Brodcast
+section_title: Information Age - Broadcast
 title: Broadcast zone audio snippets
 page_rank: #4
 stop_id: #4
