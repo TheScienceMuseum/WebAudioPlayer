@@ -8,10 +8,8 @@ page_rank: #7
 stop_id: #7
 audio_file: /medicine/A_2 Phernological heads.mp3
 hero_images:
-  - path: Medicine_touch_rph.jpg
-    alt_text: Phrenological bust, by J. De Ville, London, 1821. © The Board of Trustees of the Science Museum Science Museum Group Collection
-  - path: Medicine_touch_rph2.jpg
-    alt_text: Phrenological bust, by J. De Ville, London, 1821. © The Board of Trustees of the Science Museum Science Museum Group Collection
+ - path: Medicine_touch_rph2.jpg
+   alt_text: Phrenological bust, by J. De Ville, London, 1821. © The Board of Trustees of the Science Museum Science Museum Group Collection
 
 ---
 

@@ -8,10 +8,8 @@ page_rank: #4
 stop_id: #4
 audio_file: /medicine/INSIDE THE THERAPISTS ROOM - CLIENTS Compressed.mp3
 hero_images:
-- path: Medicine-Therapist.jpg
-  alt_text: Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
-- path: Medicine-Therapist2.jpg
-  alt_text: Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
+ - path: Medicine-Therapist2.jpg
+   alt_text: Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
 
 ---
 
