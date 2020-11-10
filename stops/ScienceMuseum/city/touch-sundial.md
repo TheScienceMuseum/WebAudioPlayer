@@ -6,7 +6,7 @@ section_title: Science City
 title: Touch Object - Replica Sundial
 page_rank: #1
 stop_id: #1
-audio_file: NASA_main_APU_Shutdown.mp3
+audio_file: /city/sundial.mp3
 hero_images:
  - path: scienceCity.jpg
    alt_text: First example photo for stop 1
@@ -17,7 +17,7 @@ hero_images:
 
 This is an audio description of a brass sundial. It is on display here and available to touch. The sundial is an unfinished replica based on an original dating from around 1607 to 1653. The brass has been polished to a highly reflective shine.  
 
-The sundial is octagonal, with a flat dial plate 26 centimetres in diameter. Sticking up vertically in the centre is a brass gnomon which casts the shadow for telling the time. The gnomon consists of a triangular base of 6 centimetres, supporting a thin arm 18 centimetres long, set at 51.5 degrees. This is the latitude of London, where the original sundial was designed to be used. Whilst some sundials were fixed vertically on walls, this one is designed to be mounted horizontally on a base, with the gnomon aligned north to south. 
+The sundial is octagonal, with a flat dial plate 26 centimetres in diameter. Sticking up vertically in the centre is a brass gnomon which casts the shadow for telling the time. The gnomon consists of a triangular base of 6 centimetres, supporting a thin arm 18 centimetres long, set at 51.5 degrees. This is the latitude of London, where the original sundial was designed to be used. Whilst some sundials were fixed vertically on walls, this one is designed to be mounted horizontally on a base, with the gnomon aligned north to south.
 
 A design has been inscribed on the dial plate. It has been worked to two different stages of finish, to show the processes involved. To the left of the gnomon, the design is unfinished, with shallow guidelines lightly scratched with a metal scribing tool. To the right it is almost complete, with the lines deeply engraved using a tool called a graver.  
 

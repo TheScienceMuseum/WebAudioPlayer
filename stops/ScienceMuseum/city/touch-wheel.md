@@ -6,7 +6,7 @@ section_title: Science City
 title: Touch Object - Replica wheels
 page_rank: #1
 stop_id: #1
-audio_file: NASA_main_APU_Shutdown.mp3
+audio_file: /city/wheels.mp3
 hero_images:
  - path: scienceCity.jpg
    alt_text: First example photo for stop 1

@@ -6,7 +6,7 @@ section_title: Science City
 title: Touch Object - Replica mirrors for a reflecting telescope
 page_rank: #1
 stop_id: #1
-audio_file: NASA_main_APU_Shutdown.mp3
+audio_file: /city/mirror.mp3
 hero_images:
  - path: scienceCity.jpg
    alt_text: First example photo for stop 1
@@ -25,4 +25,4 @@ The mirror blank, on the left, is covered in rough markings. It has been left un
 
 Both replicas were cast at Coles Castings in Dorset, using a mould made of sand. Artist Necole Schmitz [NIK-ole (i.e. pronounced the same as if it were spelt ‘Nicole’], who prepared the sand mould, explains the casting process:
 
-So today while we’re making the speculum mirrors we start out with a wooden pattern which is a slightly larger version of the final piece and that is packed in a flask – a flask is a kind of cast iron holding vessel for the sand, so the casting sand is packed around the pattern in two halves so that it can be opened up and the pattern can be removed and a sprewing system, a series of channels can be carved into the sand which allows the molten metal to go in to the mould and the gas and air to come out of the other side of the mould. So once this is complete the flask is then put back together and wired shut and then we’re going to melt the metal in the chimney furnace and pour it into the empty mould. 
+So today while we’re making the speculum mirrors we start out with a wooden pattern which is a slightly larger version of the final piece and that is packed in a flask – a flask is a kind of cast iron holding vessel for the sand, so the casting sand is packed around the pattern in two halves so that it can be opened up and the pattern can be removed and a sprewing system, a series of channels can be carved into the sand which allows the molten metal to go in to the mould and the gas and air to come out of the other side of the mould. So once this is complete the flask is then put back together and wired shut and then we’re going to melt the metal in the chimney furnace and pour it into the empty mould.
