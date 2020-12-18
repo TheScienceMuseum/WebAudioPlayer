@@ -13,6 +13,8 @@ hero_images:
 
 ---
 
+### The original model of the myoglobin molecule, constructed in plasticine in 1957 by Dr. J.C. (later Sir John) Kendrew Image © The Board of Trustees of the Science Museum, London
+
 ## Touch object: protein model
 
 This is a replica of the first model of a protein ever made – the protein myoglobin. You’re welcome to touch and explore the model. It’s attached to a white table, at a height of 75 centimetres. The model is at one end of a freestanding display. To hear the description, position yourself so that the model is to the right, with large print and Braille labels to the left.  
