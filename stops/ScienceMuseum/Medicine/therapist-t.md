@@ -12,6 +12,7 @@ hero_images:
    alt_text: Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
 
 ---
+### Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
 
 ## Therapist’s Chair 1: Susie Orbach  
 

@@ -13,6 +13,8 @@ hero_images:
 
 ---
 
+### A-52 Murphy Radio Receiver, made by Murphy Radio Limited, Welwyn Garden City, Hertfordshire, England, 1938-1939. © The Board of Trustees of the Science Museum
+
 Val Gielgud, BBC Productions Director talks about the future of the radio play, 1932
 A prolific writer and critic, Gielgud joined the BBC in 1929 and oversaw the development of a strong tradition of writing for the radio.
 © BBC 1929

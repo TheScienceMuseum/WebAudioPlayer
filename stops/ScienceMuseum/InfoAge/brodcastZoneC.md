@@ -13,6 +13,8 @@ hero_images:
 
 ---
 
+### A-52 Murphy Radio Receiver, made by Murphy Radio Limited, Welwyn Garden City, Hertfordshire, England, 1938-1939. © The Board of Trustees of the Science Museum
+
 Abdication of King Edward VIII,10  December 1936
 The decision to use radio to address the nation shows how important the medium had become.
 © BBC 1936

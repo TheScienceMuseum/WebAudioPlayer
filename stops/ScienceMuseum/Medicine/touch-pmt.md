@@ -15,6 +15,8 @@ hero_images:
 
 ---
 
+### Skull chisel and rib shears. Pathologists tools collected from the Department of cellular Pathology at the John Radcliffe Hospital, 2016. © The Board of Trustees of the Science Museum
+
 ## Touch object: post-mortem tools  
 
 his is a display of two metal post-mortem tools – a skull chisel and rib shears –

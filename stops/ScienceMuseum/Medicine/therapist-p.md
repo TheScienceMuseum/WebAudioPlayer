@@ -13,6 +13,8 @@ hero_images:
 
 ---
 
+### Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
+
 ## Patient’s Chair 1: Lee Brookes
 
 My name's Lee Brookes, I've been a service user for 11 years.

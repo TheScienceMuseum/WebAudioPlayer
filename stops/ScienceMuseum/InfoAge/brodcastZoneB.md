@@ -13,6 +13,8 @@ hero_images:
 
 ---
 
+### A-52 Murphy Radio Receiver, made by Murphy Radio Limited, Welwyn Garden City, Hertfordshire, England, 1938-1939. © The Board of Trustees of the Science Museum
+
 Recording of radio announcer Arthur Burrows re-creating his well-known refrain, ‘This is 2LO c alling ’, 1932
 This announcement opened broadcasts from the BBC’s 2LO transmitter in its early years.
 © BBC 193

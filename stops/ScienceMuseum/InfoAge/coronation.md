@@ -13,6 +13,8 @@ hero_images:
 
 ---
 
+### Still from television coverage of the Coronation of Queen Elizabeth II, 1953. Image © National Media Museum © The Board of Trustees of the Science Museum
+
 ## Susan Reed
 It seemed endless. It seemed to start early in the morning, which it probably did. I can’t remember what time it finished, but it seemed like for ever to a little one. But I can picture it in my mind, I can see her walking down and then I can see her coming away from the altar, carrying the sceptre. I think it was a sceptre in her hand. And all the little pageboys behind her trying to move the train and, oh it was a wonderful thing.
 
