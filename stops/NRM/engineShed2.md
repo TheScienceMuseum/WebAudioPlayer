@@ -4,8 +4,8 @@ permalink: /NRM/engineShed2/
 type: #stop
 section_title: GREAT HALL
 title:  THE NOISY ENGINE SHED 2
-page_rank: 2
-stop_id: 2
+page_rank: #2
+stop_id: #2
 audio_file: /NRM/EngineShed.mp3
 hero_images:
  - path: engineShed.jpg
