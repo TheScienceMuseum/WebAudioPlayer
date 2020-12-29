@@ -15,7 +15,7 @@ hero_images:
 
 ### A-52 Murphy Radio Receiver, made by Murphy Radio Limited, Welwyn Garden City, Hertfordshire, England, 1938-1939. © The Board of Trustees of the Science Museum
 
-## 1. Recording of radio announcer Arthur Burrows re-creating his well-known refrain, ‘This is 2LO c alling ’, 1932
+## 1. Recording of radio announcer Arthur Burrows re-creating his well-known refrain, ‘This is 2LO calling’, 1932
 This announcement opened broadcasts from the BBC’s 2LO transmitter in its early years.
 
 © BBC 1932
@@ -31,12 +31,14 @@ Proving popular with listeners, for several years the performance of this early 
 © BBC 1924
 
 ## 4. Extract from the BBC’s first transatlantic broadcast, 12 March 1925
-Although sound quality was poor, listeners to the WJK station in New York could hear music rebroadcast from 2LO.Courtesy of the British LibraryDiscussion of ‘Familiar Beliefs and Transcendent Reason’ by Arthur James Balfour, 1st Earl of Balfour, 1927  
+Although sound quality was poor, listeners to the WJK station in New York could hear music rebroadcast from 2LO.Courtesy of the British Library.
+
+## 5. Discussion of ‘Familiar Beliefs and Transcendent Reason’ by Arthur James Balfour, 1st Earl of Balfour, 1927  
 An example of a public talk recorded onto a gramophone record for later broadcast.
 
 © BBC 1927
 
-## 5. Extract from the BBC’s first transatlantic broadcast, 12 March 1925  
+## 6. Extract from the BBC’s first transatlantic broadcast, 12 March 1925  
 The New York Times reported on the marvel of American radio enthusiasts
 listening to the same music that was being danced to in London’s Savoy Hotel.
 
