@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/medicine/touch-rph/
-type: stop
+type: #stop
 section_title: Medicine
 title: Touch object replica phrenology head
 page_rank: #7

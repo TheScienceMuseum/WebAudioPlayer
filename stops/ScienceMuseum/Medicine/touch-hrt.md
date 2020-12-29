@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/medicine/touch-hrt/
-type: stop
+type: #stop
 section_title: Medicine
 title: Touch object cross section of a human heart
 page_rank: #7

@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/medicine/touch-skl/
-type: stop
+type: #stop
 section_title: Medicine
 title: Touch object trephinated skull
 page_rank: #7

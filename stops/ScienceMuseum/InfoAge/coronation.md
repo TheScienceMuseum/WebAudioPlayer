@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/infoage/coronation/
-type: stop
+type: #stop
 section_title: Information Age - Brodcast
 title: Memories of coronation day
 page_rank: #4
