@@ -1,9 +1,9 @@
 ---
 layout: episode
-permalink: //sciencemuseum/medicine/therapist-t/
+permalink: /sciencemuseum/medicine/therapist-t/
 type: #stop
 section_title: Medicine and treatments
-title: Therapists Room - The Therapist chair
+title: Inside the Therapist’s Room : The Therapist’s chair
 page_rank: #5
 stop_id: #5
 audio_file: /medicine/INSIDE THE THERAPISTS ROOM - THERAPISTS Compressed.mp3
@@ -12,9 +12,9 @@ hero_images:
    alt_text: Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
 
 ---
-### Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
+### Inside the Therapist’s Room exhibit in the Medicine and Treatments Gallery at the Science Museum, 2019 © The Board of Trustees of the Science Museum, London
 
-## Therapist’s Chair 1: Susie Orbach  
+## Susie Orbach  
 
 I'm Susie Orbach. I'm a psychotherapist and a psychoanalyst. I spend my days listening to people.   
 
@@ -33,7 +33,7 @@ It's a big commitment to taking on somebody for therapy because they are bringin
 to you. And they will feel nervous and vulnerable  
 and they are opening themselves up to be in an intimate relationship with somebody they don't really know that well, and you have to be able, as the therapist, to hold and contain the longings to be understood at the same time as you know you're going to be shaking up their values or the way they understand their ways of being in the world, and in the relationship to themselves.  
 
-## Therapist’s Chair 2: Brett Khar  
+## Brett Khar  
 
 My name is Professor Brett Kahr and I am a practicing psychotherapist in London.
 Over the last 125 years the profession of psychotherapy has developed

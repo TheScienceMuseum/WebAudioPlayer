@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/medicine/therapist-p/
 type: #stop
 section_title: Medicine and treatments
-title: Therapists Room - The Patient's chair
+title: Inside the Therapist’s Room: The Patient’s chair
 page_rank: #4
 stop_id: #4
 audio_file: /medicine/INSIDE THE THERAPISTS ROOM - CLIENTS Compressed.mp3
@@ -13,9 +13,9 @@ hero_images:
 
 ---
 
-### Visitors listening to therapy conversations in the Medicine Galleries at the Science Museum. Image © The Board of Trustees of the Science Museum, London
+### Inside the Therapist’s Room exhibit in the Medicine and Treatments Gallery at the Science Museum, 2019 © The Board of Trustees of the Science Museum, London
 
-## Patient’s Chair 1: Lee Brookes
+## Lee Brookes
 
 My name's Lee Brookes, I've been a service user for 11 years.
 I had mental health issues since I was a teenager which I only found
@@ -51,7 +51,7 @@ One of the medications I take is a mood stabilizer, and even's me out so the dip
 and the lows aren't as bad. I don’t really get them anymore because that's where the therapy and  
 the tools that I've learnt in the therapy, balance out the medication.   
 
-## Patient’s Chair 2: Jaabir Ramlugon
+## Jaabir Ramlugon
 
 I'm Jaabir I've got I've got borderline personality disorder and I work for a mental health charity in in my local area.  
 

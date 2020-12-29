@@ -2,8 +2,8 @@
 layout: episode
 permalink: /sciencemuseum/medicine/touch-pmt/
 type: #stop
-section_title: Medicine
-title: Touch object post-mortem tools
+section_title: Medicine and Bodies
+title: Touch object: Post-mortem tools
 page_rank: #6
 stop_id: #6
 audio_file: /medicine/A_1 Post Mortem tools.mp3
@@ -17,9 +17,9 @@ hero_images:
 
 ### Skull chisel and rib shears. Pathologists tools collected from the Department of cellular Pathology at the John Radcliffe Hospital, 2016. © The Board of Trustees of the Science Museum
 
-## Touch object: post-mortem tools  
+## Touch object: Post-mortem tools
 
-his is a display of two metal post-mortem tools – a skull chisel and rib shears –
+This is a display of two metal post-mortem tools – a skull chisel and rib shears –
 which you’re welcome to touch and explore.
 They’re placed side by side on a white table top, at a height of 75 centimetres.  
 

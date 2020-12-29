@@ -2,8 +2,8 @@
 layout: episode
 permalink: /sciencemuseum/medicine/touch-hrt/
 type: #stop
-section_title: Medicine
-title: Touch object cross section of a human heart
+section_title: Medicine and Treatments
+title: Touch object: Cross section model of a human heart
 page_rank: #7
 stop_id: #7
 audio_file: /medicine/A_4 3dHeart.mp3
@@ -13,7 +13,7 @@ hero_images:
 
 ---
 
-## Touch object: cross section of a human heart
+
 
 This is a model showing a cross section of a human heart. You’re welcome to touch and explore the model. It’s attached to an L-shaped bronze coloured table with a white top, at a height of 75 centimetres. The display is a freestanding unit, at the end of a series of glass cabinets. To hear the description, position yourself so that the model is to the right, with large print and Braille labels to the left.  
 

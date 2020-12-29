@@ -2,8 +2,8 @@
 layout: episode
 permalink: /sciencemuseum/city/touch-mirror/
 type: #stop
-section_title: Science City
-title: Touch Object - Replica mirrors for a reflecting telescope
+section_title: Science City 1500-1800
+title: Touch Object: Replica mirrors for a reflecting telescope
 page_rank: #1
 stop_id: #1
 audio_file: /city/mirror.mp3
@@ -13,7 +13,6 @@ hero_images:
 
 ---
 
-## Replica mirrors for a reflecting telescope
 
 Replica mirrors for a reflecting telescope
 

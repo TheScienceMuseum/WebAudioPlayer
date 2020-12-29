@@ -2,8 +2,8 @@
 layout: episode
 permalink: /sciencemuseum/medicine/touch-skl/
 type: #stop
-section_title: Medicine
-title: Touch object trephinated skull
+section_title: Medicine and Treatments
+title: Touch object: Trephinated skull
 page_rank: #7
 stop_id: #7
 audio_file: /medicine/A_5 Skull.mp3
@@ -13,7 +13,6 @@ hero_images:
 
 ---
 
-## Touch object: trephinated skull
 
 This is a copy of a trephinated human skull. You’re welcome to touch and explore the cast. It’s attached to a dark bronze coloured table with a white top, at a height of 75 centimetres.  
 

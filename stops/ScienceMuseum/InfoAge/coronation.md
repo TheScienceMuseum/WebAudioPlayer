@@ -2,8 +2,8 @@
 layout: episode
 permalink: /sciencemuseum/infoage/coronation/
 type: #stop
-section_title: Information Age - Brodcast
-title: Memories of coronation day
+section_title: Information Age: Brodcast
+title: Remembering the Coronation
 page_rank: #4
 stop_id: #4
 audio_file: /info age/Coronation_v3.mp3

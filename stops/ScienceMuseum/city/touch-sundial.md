@@ -2,8 +2,8 @@
 layout: episode
 permalink: /sciencemuseum/city/touch-sundial/
 type: #stop
-section_title: Science City
-title: Touch Object - Replica Sundial
+section_title: Science City 1500-1800
+title: Touch Object: Replica Sundial
 page_rank: #1
 stop_id: #1
 audio_file: /city/sundial.mp3
@@ -12,8 +12,6 @@ hero_images:
    alt_text: First example photo for stop 1
 
 ---
-
-## Replica Sundial
 
 This is an audio description of a brass sundial. It is on display here and available to touch. The sundial is an unfinished replica based on an original dating from around 1607 to 1653. The brass has been polished to a highly reflective shine.  
 

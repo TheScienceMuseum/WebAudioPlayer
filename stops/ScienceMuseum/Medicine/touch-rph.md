@@ -2,8 +2,8 @@
 layout: episode
 permalink: /sciencemuseum/medicine/touch-rph/
 type: #stop
-section_title: Medicine
-title: Touch object replica phrenology head
+section_title: Medicine and Bodies
+title: Touch object: Phrenology head
 page_rank: #7
 stop_id: #7
 audio_file: /medicine/A_2 Phernological heads.mp3
@@ -14,7 +14,7 @@ hero_images:
 ---
 ### Phrenological bust, by J. De Ville, London, 1821. © The Board of Trustees of the Science Museum Science Museum Group Collection
 
-## Touch object: replica phrenology head
+## Touch object: Phrenology head
 
 This is a model of a human head, which you’re welcome to touch and explore.
 It’s attached to a white table at a height of 75 centimetres. Heads like these
