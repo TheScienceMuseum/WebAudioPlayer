@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/medicine/touch-pro/
 type: stop
 section_title: Medicine and Bodies
-title: Touch object: Protein model
+title: Touch object - Protein model
 page_rank: #7
 stop_id: #7
 audio_file: /medicine/A_3 Sickle Cell.mp3

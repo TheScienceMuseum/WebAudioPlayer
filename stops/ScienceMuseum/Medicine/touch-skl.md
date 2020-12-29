@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/medicine/touch-skl/
 type: stop
 section_title: Medicine and Treatments
-title: Touch object: Trephinated skull
+title: Touch object - Trephinated skull
 page_rank: #7
 stop_id: #7
 audio_file: /medicine/A_5 Skull.mp3

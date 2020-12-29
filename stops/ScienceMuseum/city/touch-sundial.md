@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/city/touch-sundial/
 type: stop
 section_title: Science City 1500-1800
-title: Touch Object: Replica Sundial
+title: Touch Object - Replica Sundial
 page_rank: #1
 stop_id: #1
 audio_file: /city/sundial.mp3

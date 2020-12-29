@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/medicine/touch-rph/
 type: stop
 section_title: Medicine and Bodies
-title: Touch object: Phrenology head
+title: Touch object - Phrenology head
 page_rank: #7
 stop_id: #7
 audio_file: /medicine/A_2 Phernological heads.mp3
