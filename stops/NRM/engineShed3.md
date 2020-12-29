@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /NRM/engineShed3/
-type: stop
+type: #stop
 section_title: GREAT HALL
 title:  THE NOISY ENGINE SHED 3
 page_rank: 3
