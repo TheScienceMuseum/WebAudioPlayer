@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/medicine/touch-pmt/
-type: #stop
+type: stop
 section_title: Medicine and Bodies
 title: Touch object: Post-mortem tools
 page_rank: #6

@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/city/touch-wheel/
-type: #stop
+type: stop
 section_title: Science City 1500-1800
 title: Touch Object: Replica wheels
 page_rank: #1

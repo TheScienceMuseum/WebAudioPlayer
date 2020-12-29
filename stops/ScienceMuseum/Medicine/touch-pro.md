@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/medicine/touch-pro/
-type: #stop
+type: stop
 section_title: Medicine and Bodies
 title: Touch object: Protein model
 page_rank: #7
