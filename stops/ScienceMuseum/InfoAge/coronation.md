@@ -2,7 +2,7 @@
 layout: episode
 permalink: /sciencemuseum/infoage/coronation/
 type: stop
-section_title: Information Age: Brodcast
+section_title: Information Age - Brodcast
 title: Remembering the Coronation
 page_rank: #4
 stop_id: #4
