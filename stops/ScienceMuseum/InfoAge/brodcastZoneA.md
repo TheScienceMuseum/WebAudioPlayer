@@ -2,7 +2,7 @@
 layout: episode
 permalink: /sciencemuseum/infoage/broadcastA/
 type: stop
-section_title: Information Age - Broadcast
+section_title: Information Age:&nbsp;Broadcast
 title: Broadcast zone audio snippets
 page_rank: #4
 stop_id: #4

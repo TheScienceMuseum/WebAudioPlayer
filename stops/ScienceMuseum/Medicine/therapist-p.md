@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/medicine/therapist-p/
 type: stop
 section_title: Medicine and treatments
-title: Inside the Therapist’s Room - The Patient’s chair
+title: Inside the Therapist’s Room:&nbsp;The Patient’s chair
 page_rank: #4
 stop_id: #4
 audio_file: /medicine/INSIDE THE THERAPISTS ROOM - CLIENTS Compressed.mp3
