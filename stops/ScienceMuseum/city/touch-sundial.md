@@ -9,7 +9,7 @@ stop_id: #1
 audio_file: /city/sundial.mp3
 hero_images:
  - path: #scienceCity.jpg
-   alt_text: First example photo for stop 1
+   alt_text: #First example photo for stop 1
 
 ---
 

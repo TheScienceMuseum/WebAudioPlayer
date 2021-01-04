@@ -21,7 +21,7 @@ A prolific writer and critic, Gielgud joined the BBC in 1929 and oversaw the dev
 © BBC 1929
 
 ## 2. Performance of a radio play of *Sweeney Todd*, 1934
-This performance was recorded onto an unusual device called a Blattnerphone that used steel wire as the recording medium.Collection of Seán Street.
+This performance was recorded onto an unusual device called a Blattnerphone that used steel wire as the recording medium. Collection of Seán Street.
 
 Courtesy of the British LibraryExcerpt
 
