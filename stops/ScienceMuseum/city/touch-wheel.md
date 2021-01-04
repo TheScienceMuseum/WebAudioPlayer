@@ -8,7 +8,7 @@ page_rank: #1
 stop_id: #1
 audio_file: /city/wheels.mp3
 hero_images:
- - path: scienceCity.jpg
+ - path: #scienceCity.jpg
    alt_text: First example photo for stop 1
 
 ---
@@ -16,7 +16,7 @@ hero_images:
 
 This is an audio description of two wheels. They are on display here and available to touch. These brass replicas are based on an original example made between 1650 and 1670, as London was becoming a leading centre for the making of high-quality, precision scientific instruments. They have been crafted using historical materials and techniques, and demonstrate the precision achieved by hand before mechanisation. Wheel cutting was an extremely important skill, as toothed wheels were used in all manner of scientific instruments and clocks.
 
-The wheels were cast at Coles Castings in Dorset and finished by clockmaker Johan ten Hoeveat The Clockworks in London. The wheel on the right has been cut, finished and polished, and is about 1 millimetre thinner than the unfinished wheel - or blank - on the left, which has been cast but not cut.
+The wheels were cast at Coles Castings in Dorset and finished by clockmaker Johan ten Hoeveat at The Clockworks in London. The wheel on the right has been cut, finished and polished, and is about 1 millimetre thinner than the unfinished wheel - or blank - on the left, which has been cast but not cut.
 
 The wheels are made of a brass alloy which has a golden gleam. They are approximately 10 centimetres wide and 7 millimetres deep. Both wheels consist of a solid outer ring enclosing a central cross - called a crossing -  which is delineated by four almond-shaped perforations.  
 

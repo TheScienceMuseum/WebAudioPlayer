@@ -8,13 +8,11 @@ page_rank: #1
 stop_id: #1
 audio_file: /city/mirror.mp3
 hero_images:
- - path: scienceCity.jpg
+ - path: #scienceCity.jpg
    alt_text: First example photo for stop 1
 
 ---
 
-
-Replica mirrors for a reflecting telescope
 
 This is an audio description of two metal mirrors for a reflecting telescope. One mirror has not been polished, and the other has been polished, ready for use. They are on display here and available to touch, so you can feel the transition from raw material to finished product. They are replicas based on originals made in the 1700s, and have been created using historical materials and techniques. Reflecting telescopes gather light using mirrors. Early telescope mirrors were made from speculum; a type of bronze with an unusually high tin content. Speculum was prized for its shine, although it was brittle and prone to tarnishing.  
 
