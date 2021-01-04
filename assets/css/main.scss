@@ -8,6 +8,8 @@
 	src: url("/assets/font/SMGSans-Regular.woff");
 }
 
+text-rendering: optimizeLegibility;
+
 // Our variables
 $base-font-family: "SMG", SMGSans-Regular;
 
