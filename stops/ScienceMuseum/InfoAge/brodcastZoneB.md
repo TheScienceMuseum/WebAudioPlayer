@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/infoage/broadcastB/
 type: stop
 section_title: Information Age:&nbsp;Broadcast
-title: Broadcast zone audio snippets
+title: Radio Broadcasts
 page_rank: #4
 stop_id: #4
 audio_file: /info age/Nbroad_B.mp3
@@ -21,7 +21,9 @@ A prolific writer and critic, Gielgud joined the BBC in 1929 and oversaw the dev
 © BBC 1929
 
 ## 2. Performance of a radio play of *Sweeney Todd*, 1934
-This performance was recorded onto an unusual device called a Blattnerphone that used steel wire as the recording medium.Collection of Seán Street, courtesy of the British LibraryExcerpt
+This performance was recorded onto an unusual device called a Blattnerphone that used steel wire as the recording medium.Collection of Seán Street.
+
+Courtesy of the British LibraryExcerpt
 
 ## 3. Excerpt from ‘*Louisa Wants a Bicycle*, 8 September 1936’
 
@@ -55,7 +57,7 @@ Recorded by the Westminster Abbey Choir as part of a programme celebrating the s
 
 © BBC 1935
 
-## 10. Excerpt from a talk about a journey from Syria to Persia given by well-known personality Victoria Sackville West, 1932
+## 10. Excerpt from a talk about a journey from Syria to Persia given by well-known personality Victoria Sackville-West, 1932
 © BBC 1932
 
 ## 11. Announcements by R C Michaelson in several European languages, 1932

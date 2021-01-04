@@ -3,7 +3,7 @@ layout: episode
 permalink: /sciencemuseum/infoage/broadcastA/
 type: stop
 section_title: Information Age:&nbsp;Broadcast
-title: Broadcast zone audio snippets
+title: Radio Broadcasts
 page_rank: #4
 stop_id: #4
 audio_file: /info age/Nbroad_A.mp3
@@ -20,7 +20,7 @@ This announcement opened broadcasts from the BBC’s 2LO transmitter in its earl
 
 © BBC 1932
 
-## 2. 2King George V’s opening speech at the British Empire Exhibition in Wembley, 1924
+## 2. King George V’s opening speech at the British Empire Exhibition in Wembley, 1924
 An estimated 10 million listeners tuned into this, George V’s first radio broadcast.
 
 © BBC 1924
@@ -31,7 +31,9 @@ Proving popular with listeners, for several years the performance of this early 
 © BBC 1924
 
 ## 4. Extract from the BBC’s first transatlantic broadcast, 12 March 1925
-Although sound quality was poor, listeners to the WJK station in New York could hear music rebroadcast from 2LO.Courtesy of the British Library.
+Although sound quality was poor, listeners to the WJK station in New York could hear music rebroadcast from 2LO.
+
+Courtesy of the British Library.
 
 ## 5. Discussion of ‘Familiar Beliefs and Transcendent Reason’ by Arthur James Balfour, 1st Earl of Balfour, 1927  
 An example of a public talk recorded onto a gramophone record for later broadcast.
