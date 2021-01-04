@@ -25,8 +25,10 @@ the person can talk about what ails them.
 One big misconception is that we tell people what to do. It's a much more tender, but also sophisticated conversation about anguishing states of being, for me it very much celebrates change in people and tries to underpin it.  
 It's beautiful... It's taxing but it also is, gives you quite a lot. I think there's a muscle that one develops as a therapist which is to be present and available.
 
-It's a big commitment to taking on somebody for therapy because they are bringing their difficulties  
-to you. And they will feel nervous and vulnerable  
+It's a big commitment to taking on
+somebody for therapy because they are
+bringing their difficulties to you.
+And they will feel nervous and vulnerable  
 and they are opening themselves up to be in an intimate relationship with somebody they don't really know that well, and you have to be able, as the therapist, to hold and contain the longings to be understood at the same time as you know you're going to be shaking up their values or the way they understand their ways of being in the world, and in the relationship to themselves.  
 
 ## Brett Khar  
@@ -35,8 +37,9 @@ My name is Professor Brett Kahr and I am a practicing psychotherapist in London.
 Over the last 125 years the profession of psychotherapy has developed
 a multitude of strands. It is now as diverse as for instance the world of music.
 
-I often describe the psychotherapeutic relationship  
-as a one way relationship between two people.  
+I often describe the psychotherapeutic
+relationship as a one way relationship
+between two people.  
 There are always two people involved the therapist and the client,
 therapist and patient but the focus is 100 percent on the patient.  
 
