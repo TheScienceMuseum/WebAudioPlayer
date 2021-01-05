@@ -17,14 +17,17 @@ hero_images:
 
 ## Lee Brookes
 
-My name's Lee Brookes, I've been a service user for 11 years.
-I had mental health issues since I was a teenager which I only found
-through talking to my psychologist and through therapy.  
-I've got bipolar disorder with sort of anger management issues. I've been
+My name's Lee Brookes, I've been
+a service user for 11 years. I had mental
+health issues since I was a teenager which
+I only found through talking to my
+psychologist and through therapy.  
+I've got bipolar disorder with sort of anger
+management issues. I've been
 to therapy with five or six different therapists.  
-When I first started therapy, I felt
-really uncomfortable. Meeting someone new can be really difficult and
-meeting somebody new
+When I first started therapy, I felt really
+uncomfortable. Meeting someone new can
+be really difficult and meeting somebody new
 you're putting all of your eggs in one
 basket and then you're going to open up
 and tell them everything can be
