@@ -17,7 +17,7 @@ url: "http://www.example.com" # the base hostname & protocol for your site
 logo: "/assets/img/logo/SMG_w.png"   #"/assets/img/logo/audio-guide.png"
 twitter_username:
 github_username:
-menu_heading: "Not Selecting Anything anymore! "
+menu_heading: #"Not Selecting Anything anymore! "
 index_page_text: "Welcome to the Science Museum audio guide"
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
 headphones_icon_light: "/assets/img/icons/headphones-light.png"
@@ -26,4 +26,4 @@ headphones_icon_light: "/assets/img/icons/headphones-light.png"
 markdown: kramdown
 
 # Version settings (version number below is used for cache busting CSS and JS)
-version_number: 2.0.0.55
+version_number: 2.0.0.56
