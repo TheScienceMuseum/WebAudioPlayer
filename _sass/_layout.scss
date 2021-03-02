@@ -221,7 +221,7 @@
 .site-title {
   //width: 50%;
   img {
-
+    right: 0px;
     width: auto;
     height: 80px;
     padding: 8px 0;
@@ -243,6 +243,7 @@
   .site-title {
     //width: 60%;
     img {
+      align-items: margin-left;
       width: auto;
       height: 40px;
       padding: 12px 0;
