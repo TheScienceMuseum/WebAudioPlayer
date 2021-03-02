@@ -14,7 +14,7 @@ baseurl: "/WebAudioPlayer" # the subpath of your site, e.g. /blog
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
 url: "http://www.example.com" # the base hostname & protocol for your site
-logo: "/assets/img/logo/SMG_w.png"   #"/assets/img/logo/audio-guide.png"
+logo: "/assets/img/logo/masthead-sml-logo.png"   #"/assets/img/logo/audio-guide.png"
 twitter_username:
 github_username:
 menu_heading: #"Not Selecting Anything anymore! "
@@ -26,4 +26,4 @@ headphones_icon_light: "/assets/img/icons/headphones-light.png"
 markdown: kramdown
 
 # Version settings (version number below is used for cache busting CSS and JS)
-version_number: 2.0.0.71
+version_number: 2.0.0.72
