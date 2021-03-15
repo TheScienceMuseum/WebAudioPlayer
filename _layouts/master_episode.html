@@ -7,7 +7,7 @@
     {% include tagmanager.html %}
     {% include header-episode.html %}
     <div class="slide-menu">
-  <h2>{{ site.menu_heading }}</h2>
+<!--  <h2>{{ site.menu_heading }}</h2>-->
   <ul class="post-list">
     {% assign pages = site.pages | sort: 'page_rank' %}
     {% for my_page in pages %}{% if (my_page.section_title != null) and my_page.type == 'stop' %}<li>
@@ -28,7 +28,7 @@
   <div class="jp-gui jp-interface audio-footer-container" data-role="footer" data-position="fixed" data-tap-toggle="false">
     <div class="audio-player">
 
-      <div class="player-now-playing">
+      <div class="player-now-playing" >
         <p>
         {{ page.title }}
         </p>
@@ -36,7 +36,8 @@
 
       {% if page.audio_file != null %}
       <div id="jquery_jplayer_1" class="jp-jplayer"></div>
-      <div id="episode-element">
+
+        <div id="episode-element">
         <audio>
           <source id="episode-source" src="{{ site.baseurl }}{{ site.audio_path }}{{ page.audio_file }}" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -45,7 +46,7 @@
 
       <div class="jp-progress">
         <div class="jp-seek-bar">
-          <div class="jp-play-bar"></div>
+         <div class="jp-play-bar"></div>
         </div>
       </div>
 
@@ -70,7 +71,7 @@
 
         {% if page.audio_file != null %}
         <div class="jp-controls" style="display: inline-block; text-align: center;">
-          <button class="jp-play" role="button" tabindex="0" style="display: inline-block;" aria-label="Play Button"></button>
+          <button class="jp-play" tabindex="0" style="display: inline-block;" aria-label="Play Button"></button>
         </div>
         {% endif %}
 

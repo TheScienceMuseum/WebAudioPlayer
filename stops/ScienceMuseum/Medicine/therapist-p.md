@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/medicine/therapist-p/
-type: stop
+type: #stop
 section_title: Medicine and treatments
 title: Inside the Therapist’s Room:&nbsp;The Patient’s chair
 page_rank: #4

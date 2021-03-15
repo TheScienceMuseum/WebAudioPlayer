@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/infoage/coronation/
-type: stop
+type: #stop
 section_title: Information Age:&nbsp;Broadcast
 title: Remembering the Coronation
 page_rank: #4

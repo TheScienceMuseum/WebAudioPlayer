@@ -1,15 +1,13 @@
 ---
 layout: episode
 permalink: /sciencemuseum/city/touch-mirror/
-type: stop
+type: #stop
 section_title: Science City 1500-1800
 title: Touch Object:&nbsp;Replica mirrors for a reflecting telescope
 page_rank: #1
 stop_id: #1
 audio_file: /city/mirror.mp3
 hero_images:
- - path: #scienceCity.jpg
-   alt_text: #First example photo for stop 1
 
 ---
 

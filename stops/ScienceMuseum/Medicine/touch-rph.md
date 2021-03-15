@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/medicine/touch-rph/
-type: stop
+type: #stop
 section_title: Medicine and Bodies
 title: Touch object:&nbsp;Phrenology head
 page_rank: #7

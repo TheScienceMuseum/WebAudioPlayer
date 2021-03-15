@@ -1,7 +1,7 @@
 ---
 layout: episode
 permalink: /sciencemuseum/infoage/broadcastB/
-type: stop
+type: #stop
 section_title: Information Age:&nbsp;Broadcast
 title: Radio Broadcasts
 page_rank: #4

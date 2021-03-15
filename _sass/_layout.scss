@@ -414,7 +414,8 @@
     .post-header-section-title {
         //color: lighten($brand-color, 20%);
         display: inline-block;
-        color: lighten($brand-color, 50%);
+        //color: lighten($brand-color, 50%);
+        color: #FFFFFF;
         font-size: 26px;
         line-height: 26px;
         margin-top: 0;
@@ -422,7 +423,8 @@
         text-align: center;
     }
     .post-header-title {
-        color: lighten($brand-color, 10%);
+        //color: lighten($brand-color, 10%);
+        color: #00FFFB;
         font-size: 20px;
         line-height: 26px;
         margin-top: 0;
@@ -440,6 +442,8 @@
     //margin-bottom: $spacing-unit;
     margin-bottom: 106px;
 
+
+
     h2 {
         font-size: 26px;
 
@@ -450,8 +454,8 @@
 
     h3 {
         font-size: 20px;
-        color: lighten($brand-color, 10%);
-
+        //color: lighten($brand-color, 10%);
+        color:#00FFFB;
         @include media-query($on-laptop) {
             //font-size: 18px;
         }
@@ -517,6 +521,7 @@ Audio Player Styling
 
 .jp-audio {
     position: relative;
+
 }
 
 .audio-footer-container {
@@ -526,6 +531,7 @@ Audio Player Styling
     right: 0;
     box-sizing: border-box;
     width: 100%;
+
 }
 
 
@@ -554,6 +560,7 @@ Audio Player Styling
         padding-bottom: $player-now-playing-size / 2;;
         margin-bottom: 0;
     }
+    
 }
 
 .player-buttons {
