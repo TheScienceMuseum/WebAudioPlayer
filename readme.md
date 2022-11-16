@@ -1,3 +1,15 @@
+# Science Museum Audio Stops
+
+Implemented post-Covid 19 in 2020 to enable access to Science Museum audio in Medicine, Information Age and London Science City via QR codes and short URLs on the gallery. (John and Dave, November 2022)
+
+
+
+
+
+
+
+
+
 # Static Museum Audio Guide
 
 A [Jekyll](http://jekyllrb.com/) static site generator theme for building lightweight audio tours for exhibitions or museums.
